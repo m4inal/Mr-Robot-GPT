@@ -14,11 +14,11 @@ This project combines cutting-edge AI language generation with a custom front-en
 
 
 🚀 Tech Stack
-Frontend: HTML, Tailwind CSS, JavaScript
-Backend: Ollama (Local AI Model Server)
+Frontend: HTML, Tailwind CSS, JavaScript (DESIGN WITH CANVA USED AI TO CREATE A BEAUTIFUL UI LIKE THIS)
+Backend: Ollama (Local AI Model Server) (USED OLLAMA UNCENSORED TO UNBLOCK ALL RESTRICTIONS)
 Model: llama2-uncensored
-Hosting Options: Localhost, VPS (DigitalOcean, AWS, GCP), or via tunneling (Ngrok/Cloudflare)
-Deployment: Netlify / Vercel for frontend + VPS for backend
+Hosting Options: Localhost, VPS (DigitalOcean, AWS, GCP), or via tunneling (Ngrok/Cloudflare) (USED LOCAL HOSTING WITH PYTHON IN LINUX)
+Deployment: Netlify / Vercel for frontend + VPS for backend (TO HOST THIS SITE ONLINE USED NETLIFY)
 
 💡 Use Cases
 🎮 Roleplay AI – Create hacker-like conversations or AI-driven storylines.
